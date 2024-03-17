@@ -20,7 +20,7 @@ This is a collection to the Challenges on Frontend Mentor.
 ### Usefull Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://iam-inath.github.io/frontendmentor-challenges/)
+- Live Site URL: [Github Pages](https://iam-inath.github.io/frontendmentor-challenges/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a collection to the Challenges on Frontend Mentor.
 
 ## Author
 
-- Website - [Nathan Katshi your name here](https://www.katshi.dev)
+- Website - [Nathan Katshi](https://www.katshi.dev)
 - Frontend Mentor - [@iam-inath](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@iam_inath](https://www.twitter.com/iam_inath)
 
